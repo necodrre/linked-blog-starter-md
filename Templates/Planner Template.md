@@ -1,7 +1,7 @@
 ---
-создал заметку: "{{date}}"
+note created: "{{date}}"
 ---
-### Цели на месяц
+### Goals for the month
 
 
-### Ежедневные цели
+### Daily targets

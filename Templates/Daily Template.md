@@ -1,5 +1,5 @@
 ---
 tags: 
-создал заметку: "{{date}}"
+note created: "{{date}}"
 ---
 ### Short description

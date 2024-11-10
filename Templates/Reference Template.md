@@ -1,9 +1,9 @@
 ---
-создал заметку: "{{date}}"
-tags: []
+note created: "{{date}}"
+tags:
 ---
-### Описание
-==Добавьте краткое описание термина / технологии==.
+### Description
+==Write a short description of the term/technology.==
 
-### Резюме
-==Кратко подведите итоги==.
+### Resume
+==Briefly summarize the results.==
