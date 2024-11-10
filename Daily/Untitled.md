@@ -1,6 +1,6 @@
 ---
 tags: 
-создал заметку: 2024-11-10
+note created: 2024-11-10
 ---
-### Краткое описание
+### Short description
 ![[rat pfp.jpg]]
