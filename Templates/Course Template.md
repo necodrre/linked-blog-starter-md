@@ -1,10 +1,10 @@
 ---
 tags: 
-начал проходить: 
-прошел курс: 
-создал заметку: "{{date}}"
-цена курса: 
-моя оценка:
+started taking: 
+completed: 
+created a note: "{{date}}"
+course price: 
+my assessment:
 ---
-### Резюме
-==Добавьте краткие итоги и свои впечатления о курсе. Что нового вы узнали и какие его особенности?==
+### Resume
+==Add a summary and and your impressions==

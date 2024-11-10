@@ -1,14 +1,14 @@
 ---
 tags: 
 author: 
-начал читать: 
-прочитал: 
-создал заметку: "{{date}}"
-страниц: 
-кол.заметок: 
-цена книги: 
-прочитал n-раз: 
-моя оценка:
+started reading: 
+read: 
+created a note: "{{date}}"
+pages: 
+sum of notes: 
+book price: 
+read n-times: 
+my assessment:
 ---
-### Резюме
-==Добавьте краткие итоги и свои впечатления о книге. Что нового вы узнали и какие ее особенности?==
+### Resume
+==Add a summary and your impressions of the book. What new things have you learned and what are its features?==
