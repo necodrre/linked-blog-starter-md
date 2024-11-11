@@ -1,1 +1,1 @@
-[[remote-blog/Programming/C/Syntax/Data types|Data types]]
+[[remote-blog/Programming/C/Syntax/Data Types|Data Types]]
