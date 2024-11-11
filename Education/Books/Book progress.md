@@ -1,7 +1,5 @@
 ---
-
-kanban-plugin: board
-
+kanban-plugin: table
 ---
 
 ## On the way
@@ -28,6 +26,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true]}
+{"kanban-plugin":"list","list-collapse":[true,true]}
 ```
 %%
