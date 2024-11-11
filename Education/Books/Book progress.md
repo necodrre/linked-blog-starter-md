@@ -19,10 +19,6 @@ kanban-plugin: board
 - [ ] 12 правил жизни: противоядие от хаоса
 
 
-## Reading
-
-
-
 ## Read
 
 - [ ] [[Цветы для Элджернона]]
@@ -32,6 +28,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,true,true]}
+{"kanban-plugin":"board","list-collapse":[false,true]}
 ```
 %%
