@@ -1,3 +1,5 @@
+### Terms/Technologies
+
 [[1. Data Types|1. Data Types]]
 [[2. Variables]]
 [[3. Constants]]
@@ -15,3 +17,8 @@
 [[15. Pointers]]
 [[16. Dereferencing Pointers]]
 [[17. Writing & Reading Files]]
+
+### Related Material
+
+[[Язык программирования C]]
+[C Programming Tutorial for Begginers](https://youtu.be/KJgsSFOSQv0?si=kNY8otEoDVl3qet1)
