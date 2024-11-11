@@ -9,3 +9,4 @@ my own sake
 condition (two meanings)
 capability
 represent
+pass out/pass in
