@@ -1,12 +1,13 @@
 ---
-tags: 
-author: 
+tags:
+  - programming/books
+author: Брайан Керниган, Деннис Ритчи
 started reading: 
 read: 
 note created: 2024-11-12
-pages: 
+pages: "288"
 sum of notes: 
-book price: 
+book price: "1133"
 read n-times: 
 my assessment:
 ---
