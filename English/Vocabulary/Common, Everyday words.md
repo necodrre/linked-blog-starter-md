@@ -10,3 +10,4 @@ condition (two meanings)
 capability
 represent
 pass out/pass in
+a hickey
