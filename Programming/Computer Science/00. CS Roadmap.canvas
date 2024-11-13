@@ -1,11 +1,19 @@
 {
 	"nodes":[
 		{"id":"0a0df023fc7ac414","type":"file","file":"remote-blog/Programming/Computer Science/01. Data Structures.md","x":-880,"y":-160,"width":320,"height":700},
-		{"id":"399befd2fd15deba","x":-1400,"y":220,"width":400,"height":440,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"},
 		{"id":"7fee44a404516829","x":-1920,"y":440,"width":400,"height":220,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/03. Queue.md"},
-		{"id":"b24273aa24c4c4f1","x":-1920,"y":180,"width":400,"height":170,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/04. Stack.md"},
-		{"id":"ed7a425f60605005","x":-1317,"y":60,"width":235,"height":70,"type":"text","text":"[[01. Array Highlights]]"},
-		{"id":"a27d1764534c111b","x":-1400,"y":-360,"width":400,"height":360,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/01. Array.md"}
+		{"id":"b24273aa24c4c4f1","x":-1920,"y":10,"width":400,"height":170,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/04. Stack.md"},
+		{"id":"0865138a985e2973","type":"text","text":"[[03. Queue Highlights]]","x":-1920,"y":260,"width":400,"height":70},
+		{"id":"1a5ee29c77ddb131","x":-1920,"y":-700,"width":400,"height":440,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/05. Hash Table.md"},
+		{"id":"a27d1764534c111b","x":-1400,"y":-510,"width":400,"height":360,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/01. Array.md"},
+		{"id":"ed7a425f60605005","x":-1400,"y":-90,"width":400,"height":70,"type":"text","text":"[[01. Array Highlights]]"},
+		{"id":"399befd2fd15deba","x":-1400,"y":70,"width":400,"height":440,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"},
+		{"id":"b1e4f01b5d253e60","type":"text","text":"[[02. Linked List Highlights]]","x":-1400,"y":590,"width":400,"height":70},
+		{"id":"03df30a4a695ac1f","type":"text","text":"[[04. Stack Highlights]]","x":-1920,"y":-160,"width":400,"height":70},
+		{"id":"9e052af5b7ed6511","x":-1400,"y":-860,"width":400,"height":265,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/06. Heap.md"},
+		{"id":"11a62eadf14c7059","type":"text","text":"[[05. Hash Table Highlights]]","x":-1920,"y":-860,"width":400,"height":70},
+		{"id":"ae9a78ac2133df8b","type":"text","text":"[[06. Heap Highlights]]","x":-1400,"y":-1030,"width":400,"height":70},
+		{"id":"f499274b695fa7ad","x":-920,"y":-1195,"width":400,"height":415,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/07. Tree.md"}
 	],
 	"edges":[]
 }
