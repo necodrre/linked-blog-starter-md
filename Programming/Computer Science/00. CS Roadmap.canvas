@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"0a0df023fc7ac414","type":"file","file":"remote-blog/Programming/Computer Science/01. Data Structures.md","x":-880,"y":-160,"width":320,"height":700}
+		{"id":"0a0df023fc7ac414","type":"file","file":"remote-blog/Programming/Computer Science/01. Data Structures.md","x":-880,"y":-160,"width":320,"height":700},
+		{"id":"399befd2fd15deba","x":-1400,"y":220,"width":400,"height":440,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"},
+		{"id":"7fee44a404516829","x":-1920,"y":440,"width":400,"height":220,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/03. Queue.md"},
+		{"id":"b24273aa24c4c4f1","x":-1920,"y":180,"width":400,"height":170,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/04. Stack.md"},
+		{"id":"ed7a425f60605005","x":-1317,"y":60,"width":235,"height":70,"type":"text","text":"[[01. Array Highlights]]"},
+		{"id":"a27d1764534c111b","x":-1400,"y":-360,"width":400,"height":360,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/01. Array.md"}
 	],
 	"edges":[]
 }
