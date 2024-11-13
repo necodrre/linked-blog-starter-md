@@ -21,5 +21,9 @@
 ### Related Material
 
 - [ ] – <font color="#964B00"> Book: </font>[[Язык программирования C]]
+- [ ] – <font color="orange"> Article: </font>[Learn C - W3Schools](https://www.w3schools.com/c/)
+- [ ] – <font color="orange"> Article: </font>[Learn C - Tutorials Point](https://www.tutorialspoint.com/cprogramming/index.htm)
 - [ ] – <font color="azure"> Video: </font>[C Programming Tutorial for Begginers](https://youtu.be/KJgsSFOSQv0?si=kNY8otEoDVl3qet1)
-- [ ] – 
+- [ ] – <font color="azure"> Video: </font>[Learn C Programming with Dr. Chuck](https://www.youtube.com/watch?v=j-_s8f5K30I)
+- [ ] – <font color="azure"> Video: </font>[C Programming Full Course (Bro Code)](https://youtu.be/87SH2Cn0s9A)
+- [ ] – <font color="violet"> Feed: </font>[Top Posts about C Programming](https://app.daily.dev/tags/c?ref=roadmapsh)
