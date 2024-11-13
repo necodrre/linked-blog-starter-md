@@ -1,24 +1,47 @@
 {
 	"nodes":[
 		{"id":"0a0df023fc7ac414","type":"file","file":"remote-blog/Programming/Computer Science/01. Data Structures.md","x":-880,"y":-160,"width":320,"height":700},
-		{"id":"7fee44a404516829","x":-1920,"y":440,"width":400,"height":220,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/03. Queue.md"},
 		{"id":"b24273aa24c4c4f1","x":-1920,"y":10,"width":400,"height":170,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/04. Stack.md"},
-		{"id":"0865138a985e2973","type":"text","text":"[[03. Queue Highlights]]","x":-1920,"y":260,"width":400,"height":70},
 		{"id":"1a5ee29c77ddb131","x":-1920,"y":-700,"width":400,"height":440,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/05. Hash Table.md"},
 		{"id":"a27d1764534c111b","x":-1400,"y":-510,"width":400,"height":360,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/01. Array.md"},
 		{"id":"ed7a425f60605005","x":-1400,"y":-90,"width":400,"height":70,"type":"text","text":"[[01. Array Highlights]]"},
-		{"id":"399befd2fd15deba","x":-1400,"y":70,"width":400,"height":440,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"},
 		{"id":"b1e4f01b5d253e60","type":"text","text":"[[02. Linked List Highlights]]","x":-1400,"y":590,"width":400,"height":70},
 		{"id":"03df30a4a695ac1f","type":"text","text":"[[04. Stack Highlights]]","x":-1920,"y":-160,"width":400,"height":70},
 		{"id":"9e052af5b7ed6511","x":-1400,"y":-860,"width":400,"height":265,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/06. Heap.md"},
 		{"id":"11a62eadf14c7059","type":"text","text":"[[05. Hash Table Highlights]]","x":-1920,"y":-860,"width":400,"height":70},
 		{"id":"ae9a78ac2133df8b","type":"text","text":"[[06. Heap Highlights]]","x":-1400,"y":-1030,"width":400,"height":70},
 		{"id":"53dab64b6481189b","x":-1920,"y":-1720,"width":920,"height":560,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/08. Graph.md"},
-		{"id":"7b5f75317ea336b2","x":-460,"y":-1692,"width":400,"height":549,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/02. Binary Search Tree.md"},
+		{"id":"7b5f75317ea336b2","x":-460,"y":-1697,"width":400,"height":554,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/02. Binary Search Tree.md"},
 		{"id":"136c78d26c5455a8","x":-460,"y":-1880,"width":400,"height":143,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/01. Binary Tree.md"},
 		{"id":"f499274b695fa7ad","x":-960,"y":-1237,"width":400,"height":415,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/07. Tree.md"},
 		{"id":"66aff04202907fa9","x":-460,"y":-1100,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/03. Full Binary Tree.md"},
-		{"id":"35ac8cc335ba5958","x":-40,"y":-1100,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/04. Complete Binary Tree.md"}
+		{"id":"35ac8cc335ba5958","x":-460,"y":-980,"width":400,"height":108,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/04. Complete Binary Tree.md"},
+		{"id":"fb2def7e37d6193f","x":-460,"y":-832,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/05. Balanced Tree.md"},
+		{"id":"9339c06c22561064","x":-460,"y":-700,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/06. Unbalanced Tree.md"},
+		{"id":"7fee44a404516829","x":-1920,"y":453,"width":400,"height":207,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/03. Queue.md"},
+		{"id":"0865138a985e2973","type":"text","text":"[[03. Queue Highlights]]","x":-1920,"y":280,"width":400,"height":70},
+		{"id":"399befd2fd15deba","x":-1400,"y":47,"width":400,"height":466,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"45642d2470a4232e","fromNode":"0a0df023fc7ac414","fromSide":"left","toNode":"a27d1764534c111b","toSide":"right"},
+		{"id":"f410f98ea011117a","fromNode":"a27d1764534c111b","fromSide":"bottom","toNode":"ed7a425f60605005","toSide":"top"},
+		{"id":"11a412d01289419a","fromNode":"ed7a425f60605005","fromSide":"bottom","toNode":"399befd2fd15deba","toSide":"top"},
+		{"id":"c38d61934811e603","fromNode":"399befd2fd15deba","fromSide":"bottom","toNode":"b1e4f01b5d253e60","toSide":"top"},
+		{"id":"7ae83080aef0576d","fromNode":"b1e4f01b5d253e60","fromSide":"bottom","toNode":"7fee44a404516829","toSide":"bottom"},
+		{"id":"8e4e8f9b5e9808fd","fromNode":"7fee44a404516829","fromSide":"top","toNode":"0865138a985e2973","toSide":"bottom"},
+		{"id":"48a8d40b9c41bd67","fromNode":"0865138a985e2973","fromSide":"top","toNode":"b24273aa24c4c4f1","toSide":"bottom"},
+		{"id":"dd291ddca6a69aa8","fromNode":"b24273aa24c4c4f1","fromSide":"top","toNode":"03df30a4a695ac1f","toSide":"bottom"},
+		{"id":"673532a0a6866ce6","fromNode":"03df30a4a695ac1f","fromSide":"top","toNode":"1a5ee29c77ddb131","toSide":"bottom"},
+		{"id":"04ec3befd757f088","fromNode":"1a5ee29c77ddb131","fromSide":"top","toNode":"11a62eadf14c7059","toSide":"bottom"},
+		{"id":"9fde2ecd6fb79be8","fromNode":"11a62eadf14c7059","fromSide":"right","toNode":"9e052af5b7ed6511","toSide":"left"},
+		{"id":"644827d7191af1dc","fromNode":"9e052af5b7ed6511","fromSide":"top","toNode":"ae9a78ac2133df8b","toSide":"bottom"},
+		{"id":"93ae0b79a95a5502","fromNode":"ae9a78ac2133df8b","fromSide":"right","toNode":"f499274b695fa7ad","toSide":"bottom"},
+		{"id":"c0510c9f1511c1e9","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"136c78d26c5455a8","toSide":"left"},
+		{"id":"7c2fb8b41fce8650","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"7b5f75317ea336b2","toSide":"left"},
+		{"id":"be905bf02287e608","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"66aff04202907fa9","toSide":"left"},
+		{"id":"e751ac4dff4436fe","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"35ac8cc335ba5958","toSide":"left"},
+		{"id":"6b972ea83f0a5784","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"fb2def7e37d6193f","toSide":"left"},
+		{"id":"c27c5755c2a8a01d","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"9339c06c22561064","toSide":"left"},
+		{"id":"527e1b7461a92724","fromNode":"f499274b695fa7ad","fromSide":"top","toNode":"53dab64b6481189b","toSide":"right"}
+	]
 }
