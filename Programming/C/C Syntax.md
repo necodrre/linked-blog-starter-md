@@ -20,5 +20,6 @@
 
 ### Related Material
 
-[[Язык программирования C]]
-[C Programming Tutorial for Begginers](https://youtu.be/KJgsSFOSQv0?si=kNY8otEoDVl3qet1)
+- [ ] – <font color="#964B00"> Book: </font>[[Язык программирования C]]
+- [ ] – <font color="azure"> Video: </font>[C Programming Tutorial for Begginers](https://youtu.be/KJgsSFOSQv0?si=kNY8otEoDVl3qet1)
+- [ ] – 

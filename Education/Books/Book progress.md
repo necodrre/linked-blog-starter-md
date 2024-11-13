@@ -1,5 +1,7 @@
 ---
+
 kanban-plugin: table
+
 ---
 
 ## On the way
@@ -13,7 +15,7 @@ kanban-plugin: table
 - [ ] [[Становление Стива Джобса]]
 - [ ] Sapiens. Краткая история человечества
 - [ ] [[Желтая стрела]]
-- [ ] Грокаем алгоритмы
+- [ ] [[Грокаем алгоритмы]]
 - [ ] 12 правил жизни: противоядие от хаоса
 
 
@@ -26,6 +28,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"list","list-collapse":[true,true]}
+{"kanban-plugin":"table","list-collapse":[true,true]}
 ```
 %%
