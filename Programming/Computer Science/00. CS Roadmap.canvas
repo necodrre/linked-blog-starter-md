@@ -13,7 +13,12 @@
 		{"id":"9e052af5b7ed6511","x":-1400,"y":-860,"width":400,"height":265,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/06. Heap.md"},
 		{"id":"11a62eadf14c7059","type":"text","text":"[[05. Hash Table Highlights]]","x":-1920,"y":-860,"width":400,"height":70},
 		{"id":"ae9a78ac2133df8b","type":"text","text":"[[06. Heap Highlights]]","x":-1400,"y":-1030,"width":400,"height":70},
-		{"id":"f499274b695fa7ad","x":-920,"y":-1195,"width":400,"height":415,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/07. Tree.md"}
+		{"id":"53dab64b6481189b","x":-1920,"y":-1720,"width":920,"height":560,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/08. Graph.md"},
+		{"id":"7b5f75317ea336b2","x":-460,"y":-1692,"width":400,"height":549,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/02. Binary Search Tree.md"},
+		{"id":"136c78d26c5455a8","x":-460,"y":-1880,"width":400,"height":143,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/01. Binary Tree.md"},
+		{"id":"f499274b695fa7ad","x":-960,"y":-1237,"width":400,"height":415,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/07. Tree.md"},
+		{"id":"66aff04202907fa9","x":-460,"y":-1100,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/03. Full Binary Tree.md"},
+		{"id":"35ac8cc335ba5958","x":-40,"y":-1100,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/04. Complete Binary Tree.md"}
 	],
 	"edges":[]
 }
