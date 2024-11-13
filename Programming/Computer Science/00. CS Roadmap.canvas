@@ -20,7 +20,14 @@
 		{"id":"9339c06c22561064","x":-460,"y":-700,"width":400,"height":85,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Tree/06. Unbalanced Tree.md"},
 		{"id":"7fee44a404516829","x":-1920,"y":453,"width":400,"height":207,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/03. Queue.md"},
 		{"id":"0865138a985e2973","type":"text","text":"[[03. Queue Highlights]]","x":-1920,"y":280,"width":400,"height":70},
-		{"id":"399befd2fd15deba","x":-1400,"y":47,"width":400,"height":466,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"}
+		{"id":"399befd2fd15deba","x":-1400,"y":47,"width":400,"height":466,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/02. Linked List.md"},
+		{"id":"74f8fe00d7f2ffe5","x":-1920,"y":-1880,"width":400,"height":92,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Graph/01. Directed Graph.md"},
+		{"id":"c9fb3dc4bb5a0126","x":-1460,"y":-1880,"width":400,"height":92,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Graph/02. Undirected Graph.md"},
+		{"id":"afa9792331ffdbc9","x":-1460,"y":-2221,"width":400,"height":261,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Graph/03. Spanning Tree.md"},
+		{"id":"b30e77e50ae90769","x":-1920,"y":-2600,"width":400,"height":174,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Graph/04. Graph Representation.md"},
+		{"id":"6b257ebdb91ac348","x":-2400,"y":-2760,"width":400,"height":120,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Graph/Graph Representation/01. Adjacency Matrix.md"},
+		{"id":"a4d05d3aee67297d","x":-2400,"y":-2360,"width":400,"height":120,"type":"file","file":"remote-blog/Programming/Computer Science/Roadmap/01. Data Structures/Graph/Graph Representation/02. Adjacency List.md"},
+		{"id":"e785d148ec23a4da","x":-260,"y":-90,"width":400,"height":968,"type":"file","file":"remote-blog/Programming/C/01. C Syntax.md"}
 	],
 	"edges":[
 		{"id":"45642d2470a4232e","fromNode":"0a0df023fc7ac414","fromSide":"left","toNode":"a27d1764534c111b","toSide":"right"},
@@ -42,6 +49,13 @@
 		{"id":"e751ac4dff4436fe","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"35ac8cc335ba5958","toSide":"left"},
 		{"id":"6b972ea83f0a5784","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"fb2def7e37d6193f","toSide":"left"},
 		{"id":"c27c5755c2a8a01d","fromNode":"f499274b695fa7ad","fromSide":"right","toNode":"9339c06c22561064","toSide":"left"},
-		{"id":"527e1b7461a92724","fromNode":"f499274b695fa7ad","fromSide":"top","toNode":"53dab64b6481189b","toSide":"right"}
+		{"id":"527e1b7461a92724","fromNode":"f499274b695fa7ad","fromSide":"top","toNode":"53dab64b6481189b","toSide":"right"},
+		{"id":"4dea2118d2223107","fromNode":"afa9792331ffdbc9","fromSide":"top","toNode":"b30e77e50ae90769","toSide":"right"},
+		{"id":"25f7bc72487fc3d0","fromNode":"b30e77e50ae90769","fromSide":"left","toNode":"6b257ebdb91ac348","toSide":"bottom"},
+		{"id":"00d090d5e25e4b9f","fromNode":"b30e77e50ae90769","fromSide":"left","toNode":"a4d05d3aee67297d","toSide":"top"},
+		{"id":"2dc22f9d196794ff","fromNode":"53dab64b6481189b","fromSide":"left","toNode":"74f8fe00d7f2ffe5","toSide":"left"},
+		{"id":"adb238e2214e92a3","fromNode":"74f8fe00d7f2ffe5","fromSide":"right","toNode":"c9fb3dc4bb5a0126","toSide":"left"},
+		{"id":"dac2154039bdd542","fromNode":"c9fb3dc4bb5a0126","fromSide":"right","toNode":"afa9792331ffdbc9","toSide":"right"},
+		{"id":"1b04a97752785011","fromNode":"e785d148ec23a4da","fromSide":"left","toNode":"0a0df023fc7ac414","toSide":"right"}
 	]
 }
