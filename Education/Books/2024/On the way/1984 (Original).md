@@ -1,13 +1,13 @@
 ---
 tags:
-  - biography/books
-author: Брент Шлендер, Рик Тетцели
+  - "#fiction/books"
+author: George Orwell
 started reading: 
 read: 
-note created: 2024-11-12
-pages: "464"
+note created: 2024-11-16
+pages: "326"
 sum of notes: 
-book price: 
+book price: "449"
 read n-times: 
 my assessment:
 ---
