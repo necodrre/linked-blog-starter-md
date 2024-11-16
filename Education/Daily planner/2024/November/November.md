@@ -1,6 +1,4 @@
----
-note created: 2024-11-10
----
+#november
 ### Goals for the month
 
 - [ ] – Read two [[2024 Books]] (1/2)
