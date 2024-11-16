@@ -1,7 +1,5 @@
 ---
-
 kanban-plugin: table
-
 ---
 
 ## On the way
@@ -17,6 +15,7 @@ kanban-plugin: table
 - [ ] [[Желтая стрела]]
 - [ ] [[Грокаем алгоритмы]]
 - [ ] 12 правил жизни: противоядие от хаоса
+- [ ] Легкий способ бросить курить
 
 
 ## Read
@@ -28,6 +27,6 @@ kanban-plugin: table
 
 %% kanban:settings
 ```
-{"kanban-plugin":"table","list-collapse":[true,true]}
+{"kanban-plugin":"board","list-collapse":[false,true]}
 ```
 %%
