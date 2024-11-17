@@ -6,16 +6,15 @@ kanban-plugin: board
 
 ## On the way
 
+- [ ] [[Атомные привычки]]
 - [ ] [[Язык программирования C]]
 - [ ] [[Преступление и наказание]]
-- [ ] [[Стив Джобс]]
-- [ ] [[1984]]
-- [ ] [[1984 (Original)]]
+- [ ] [[Становление Стива Джобса]]
+- [ ] [[Желтая стрела]]
 
 
 ## Reading
 
-- [ ] [[Атомные привычки]]
 
 
 ## Read
@@ -27,6 +26,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,true]}
+{"kanban-plugin":"board","list-collapse":[false,true,true]}
 ```
 %%

@@ -1,4 +1,3 @@
-#music/lyrics
 
 you born on an exoplanet
 your light could get me
