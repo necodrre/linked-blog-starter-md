@@ -1,5 +1,7 @@
 ---
-kanban-plugin: table
+
+kanban-plugin: board
+
 ---
 
 ## On the way
@@ -16,6 +18,7 @@ kanban-plugin: table
 - [ ] [[Грокаем алгоритмы]]
 - [ ] 12 правил жизни: противоядие от хаоса
 - [ ] Легкий способ бросить курить
+- [ ] [[1984 (Original)]]
 
 
 ## Read
