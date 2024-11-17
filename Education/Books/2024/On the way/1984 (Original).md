@@ -1,12 +1,13 @@
 ---
-tags: 
-author: 
+tags:
+  - fiction/books
+author: George Orwell
 started reading: 
 read: 
 note created: 2024-11-17
-pages: 
+pages: "326"
 sum of notes: 
-book price: 
+book price: "449"
 read n-times: 
 my assessment:
 ---
