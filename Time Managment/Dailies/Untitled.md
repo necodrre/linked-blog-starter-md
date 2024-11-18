@@ -5,14 +5,14 @@ Anything goes.
 # :LiChevronsRight: Actionables
 ```dataview
 TASK
-FROM "Syncs"
+FROM "remote-blog/Time Managment/Syncs"
 WHERE completed = false
 GROUP BY file.link
 ```
 # :LiCheckCircle2: Mobile Tasks
 ```dataview
 TASK
-FROM "Captures/Drafts Tasks"
+FROM "remote-blog/Time Managment/Captures/Drafts Tasks"
 WHERE completed = false
 ```
 # :LiMaximize: Captures
