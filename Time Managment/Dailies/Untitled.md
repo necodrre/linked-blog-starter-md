@@ -19,7 +19,7 @@ WHERE completed = false
 
 ```dataview
 TABLE WITHOUT ID file.ctime as "Created", file.link as "Note Title"
-FROM "Captures"
+FROM "remote-blog/Time Managment/Captures"
 WHERE dateformat(file.cday, "yyyy-MM-dd") AND dateformat(file.cday, "yyyy-MM-dd") = this.file.name
 SORT file.ctime DESC
 ```
@@ -28,7 +28,7 @@ SORT file.ctime DESC
 
 ```dataview
 TABLE WITHOUT ID file.ctime as "Created", file.link as "Note Title"
-FROM "Captures"
+FROM "remote-blog/Time Managment/Captures"
 WHERE contains(file.tags, "actioned") 
 AND dateformat(file.cday, "yyyy-MM-dd") AND dateformat(file.cday, "yyyy-MM-dd") = this.file.name
 SORT file.ctime DESC
