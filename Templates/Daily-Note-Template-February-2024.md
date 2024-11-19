@@ -5,21 +5,21 @@ Anything goes.
 # :LiChevronsRight: Actionables
 ```dataview
 TASK
-FROM "remote-blog/Time Managment/Syncs"
+FROM "remote-blog/Time Managment/02. Syncs"
 WHERE completed = false
 GROUP BY file.link
 ```
 # :LiCheckCircle2: Mobile Tasks
 ```dataview
 TASK
-FROM "remote-blog/Time Managment/Captures/00. Drafts Tasks"
+FROM "remote-blog/Time Managment/01. Captures/00. Drafts Tasks"
 WHERE completed = false
 ```
 # :LiMaximize: Captures
 
 ```dataview
 TABLE WITHOUT ID file.ctime as "Created", file.link as "Note Title"
-FROM "remote-blog/Time Managment/Captures"
+FROM "remote-blog/Time Managment/01. Captures"
 WHERE dateformat(file.cday, "yyyy-MM-dd") AND dateformat(file.cday, "yyyy-MM-dd") = this.file.name
 SORT file.ctime DESC
 ```
@@ -28,7 +28,7 @@ SORT file.ctime DESC
 
 ```dataview
 TABLE WITHOUT ID file.ctime as "Created", file.link as "Note Title"
-FROM "remote-blog/Time Managment/Captures"
+FROM "remote-blog/Time Managment/01. Captures"
 WHERE contains(file.tags, "actioned") 
 AND dateformat(file.cday, "yyyy-MM-dd") AND dateformat(file.cday, "yyyy-MM-dd") = this.file.name
 SORT file.ctime DESC
@@ -42,6 +42,7 @@ Coming Soon™
 
 ```dataview
 TABLE WITHOUT ID file.ctime as "Created", file.link as "Note Title"
+FROM "remote-blog/Time Managment/03. Snippets"
 WHERE contains(tags, "snippet") AND dateformat(file.cday, "yyyy-MM-dd") = this.file.name
 SORT file.ctime DESC
 ```
