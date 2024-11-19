@@ -42,7 +42,6 @@ Coming Soon™
 
 ```dataview
 TABLE WITHOUT ID file.ctime as "Created", file.link as "Note Title"
-FROM "remote-blog/Time Managment/03. Snippets"
 WHERE contains(tags, "snippet") AND dateformat(file.cday, "yyyy-MM-dd") = this.file.name
 SORT file.ctime DESC
 ```
