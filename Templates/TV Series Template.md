@@ -1,4 +1,8 @@
 ---
 tags: 
-episodes:
+season: 
+episodes: 
+mins per ep: 
+finished: 
+my rating:
 ---
