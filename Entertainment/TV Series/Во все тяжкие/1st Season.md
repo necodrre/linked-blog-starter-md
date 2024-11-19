@@ -4,7 +4,7 @@ tags:
 season: "1"
 episodes: "11"
 mins per ep: "47"
-finished: 
+finished: 2024-11-14
 times watched: "1"
 my rating: 10
 ---

@@ -1,7 +1,7 @@
 ---
 tags: 
 author: 
-started reading: 
+began: 
 finished: 
 pages: 
 sum of notes: 

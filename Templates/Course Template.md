@@ -1,7 +1,7 @@
 ---
 tags: 
-started taking: 
-completed: 
+began: 
+finished: 
 course price: 
 my rating:
 ---
