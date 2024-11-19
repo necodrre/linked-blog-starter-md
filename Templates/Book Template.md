@@ -2,8 +2,7 @@
 tags: 
 author: 
 started reading: 
-read: 
-note created: "{{date}}"
+finished: 
 pages: 
 sum of notes: 
 book price: 
