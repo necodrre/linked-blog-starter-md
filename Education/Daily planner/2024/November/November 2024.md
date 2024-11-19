@@ -9,7 +9,7 @@
 
 ### Daily targets
 
-- [ ] – [[2024-11-16]]
+- [ ] – [[✅ 2024-11-16]]
 - [ ] – [[2024-11-17]]
 - [ ] – [[2024-11-18]]
 - [ ] – [[remote-blog/Education/Daily planner/2024/November/Tasks/2024-11-19]]
